@@ -1,9 +1,8 @@
 <template>
   <div class="header">
     <div class="header__logo">
-      <img src="https://firebasestorage.googleapis.com/v0/b/amburguer-cbd19.firebasestorage.app/o/logo%20amburguer.png?alt=media&token=1dedc1a7-db0b-4967-a0c5-5f9694737eb4" alt="">
+      <img src="https://i.imgur.com/Fm7jYRr.png" alt="">
     </div>
-    <span class="header__title"></span>
   </div>
 </template>
 <script>
@@ -31,12 +30,11 @@ export default {
 
 <style>
 .header {
-  padding: 10px 30px;
-  height: 70px;
-  background-color: white;
+  padding: 0px 30px;
+  background-color: #00adb3;
   box-shadow: 0px 0px 20px 6px rgba(0, 0, 0, 0.05);
   width: 100%;
-  position: fixed;
+  height: 40vh;
   z-index: 3;
   display: flex;
   justify-content: center;
