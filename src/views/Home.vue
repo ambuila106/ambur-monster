@@ -4,7 +4,7 @@
     <div class="contain">
       <span style="font-size: 14px; font-weight: 600;">1 Detonadora y 1 Malteada $25900:</span>
       <span style="font-size: 14px;">Productos restantes:</span>
-      10
+      7
     </div>
 
     <div @click="finalizeOrder()" class="finalize-order">

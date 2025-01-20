@@ -33,7 +33,7 @@ export default {
   padding: 0px 30px;
   background-color: #00adb3;
   box-shadow: 0px 0px 20px 6px rgba(0, 0, 0, 0.05);
-  width: 100%;
+  width: 100vw;
   height: 40vh;
   z-index: 3;
   display: flex;
@@ -44,9 +44,11 @@ export default {
   margin: 7px 0 0 20px;
   width: 250px;
   object-fit: cover;
+  display: flex;
+  justify-content: center;
 }
 
-.header__logo img {
+img {
   width: 100%;
 }
 

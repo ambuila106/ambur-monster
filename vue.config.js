@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/ambu-monster/',
+    publicPath: '/ambur-monster/',
 }

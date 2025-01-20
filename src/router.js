@@ -19,7 +19,7 @@ export default new Router({
       component: Home
     },
     {
-      path: '/ambu-monster',
+      path: '/ambur-monster',
       name: 'amburguer',
       component: App,
       meta: { title: "Amburguer" },
